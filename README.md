@@ -1,6 +1,6 @@
 <br>
     <div align="center";>
-        <a href=""><img src="https://img.shields.io/badge/gmail-007396?style=flat-square&logo=Gmail&logoColor=#EA4335"></a>
+        <img src="https://img.shields.io/badge/gmail-007396?style=flat-square&logo=Gmail&logoColor=#EA4335">
         <p>harry7141@gmail.com</p>
     </div>  
 <br>
