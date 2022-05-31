@@ -11,8 +11,8 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leetaehyeon123&layout=compact&theme=gruvbox_light&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leetaehyeon123&layout=compact&theme=gruvbox_light&langs_count=6" width="30%"/>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=leetaehyeon123&show_icons=true&theme=gruvbox_light"/
+  <img src="https://github-readme-stats.vercel.app/api?username=leetaehyeon123&show_icons=true&theme=gruvbox_light" width="30%"/>
 </div>
