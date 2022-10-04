@@ -16,9 +16,9 @@
         <img src="https://img.shields.io/badge/jQuery-1badd1?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp
         <img src="https://img.shields.io/badge/Oracle-critical?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
     </div>  
+<br> -->
 <br> 
-<br> 
-    <h3 align="center"> GitHub Stats </h3> -->
+    <h3 align="center"> GitHub Stats </h3> 
     <div align="center">
       <a href='https://github.com/leetaehyeon123'>
         <img src="https://github-readme-stats.vercel.app/api?username=leetaehyeon123&show_icons=true&theme=gruvbox_light" height="150"/>
