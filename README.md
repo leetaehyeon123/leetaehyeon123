@@ -17,6 +17,7 @@
         <img src="https://img.shields.io/badge/Oracle-critical?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
     </div>  
 <br> 
+-->
 <br> 
     <h3 align="center"> GitHub Stats </h3> 
     <div align="center">
@@ -26,9 +27,6 @@
        </a>
     </div>    
 <br> 
--->
 
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leetaehyeon123&layout=compact&&theme=dark&&&langs_count=6)](https://github.com/leetaehyeon123)
-</div>
+
+
