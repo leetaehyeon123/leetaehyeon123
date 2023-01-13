@@ -17,7 +17,7 @@
         <img src="https://img.shields.io/badge/Oracle-critical?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
     </div>  
 <br> 
--->
+
 <br> 
     <h3 align="center"> GitHub Stats </h3> 
     <div align="center">
@@ -27,6 +27,6 @@
        </a>
     </div>    
 <br> 
-
+-->
 
 
