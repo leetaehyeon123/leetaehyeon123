@@ -32,4 +32,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{leetaehyeon123}/count.svg" /></p> 
 </div>
 
-1/18 ~ 1/28 tokyo
+1/18 ~ 1/28 Tokyo
