@@ -23,7 +23,7 @@
     <div align="center">
       <a href='https://github.com/leetaehyeon123'>
         <img src="https://github-readme-stats.vercel.app/api?username=leetaehyeon123&show_icons=true&theme=gruvbox_light" height="150"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leetaehyeon123&layout=compact&theme=gruvbox_light&langs_count=9" height="150"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leetaehyeon123&layout=compact&theme=gruvbox_light&langs_count=10" height="150"/>
        </a>
     </div>    
 <br> 
