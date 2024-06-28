@@ -1,10 +1,11 @@
 
-    <div align="center";>
+<!-- 
+<div align="center";>
         <img src="https://img.shields.io/badge/gmail-007396?style=flat-square&logo=Gmail&logoColor=#EA4335">
         <p>harry7141@gmail.com</p>
     </div>  
 <br>
-    <!--<h3 align="center">🛠 Tech Stack </h3>
+    <h3 align="center">🛠 Tech Stack </h3>
     <div align="center";>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
@@ -15,8 +16,7 @@
         <img src="https://img.shields.io/badge/jQuery-1badd1?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp
         <img src="https://img.shields.io/badge/Oracle-critical?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
     </div>  
-<br> 
--->
+<br> -->
 <br> 
     <h3 align="center"> GitHub Stats </h3> 
     <div align="center">
